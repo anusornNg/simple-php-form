@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+.code-workspace
+
+node_modules/
+/vendor/
+yarn.lock
+*.log
+
+.env
+data/
