@@ -7,5 +7,6 @@ node_modules/
 yarn.lock
 *.log
 
-.env
 data/
+.env
+*.db
