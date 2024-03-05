@@ -1,6 +1,6 @@
 # Simple PHP Form
 
-Simple PHP Form.
+Simple PHP Form. For opportunities testing.
 
 This web app is to demonstrate PHP Form input submission and store in database with SQL statements.
 
